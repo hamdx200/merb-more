@@ -1,1 +1,1 @@
-Add Non-Maximum Suppression (NMS) inplace flag (#8368)
+Resize angle, count, and stage on keypoint number change (#7598)
