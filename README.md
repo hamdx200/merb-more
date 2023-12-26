@@ -1,1 +1,1 @@
-Fix OpenVINO missing batch-size bug (#9264)
+Add Ultralytics HUB Cloud Training banner to Docs (#8656)
